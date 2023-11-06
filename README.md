@@ -12,9 +12,10 @@
   <a href="https://twitter.com/abhiksahu2003">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Abhiksahu3092&style=flat-square&color=blue" alt=""/>
 </div>
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhiksahu3092&style=flat-square&color=blue" alt=""/>
+<div>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhiksahu3092&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
