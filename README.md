@@ -4,6 +4,16 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
   <div align="center"><h3>Hi everyone. Abhik this side 👋<h3></div>
 </div>
+    
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/abhiksundarsahu/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/abhiksahu2003">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Abhiksahu3092&style=flat-square&color=blue" alt=""/>
+</div>
 
 
 <!--
