@@ -6,6 +6,4 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m interested in learning new cutting edge technologies such as AI, ML and data science.
 - 💬 Happy to discuss about coding, DSA, and development
-- 📫 How to reach me: You can DM me on any of my given social handles
-
-https://www.linkedin.com/in/abhiksundarsahu/
+- 📫 How to reach me: You can DM me on any of my given social media handles.
