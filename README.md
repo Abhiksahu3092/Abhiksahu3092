@@ -35,6 +35,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhiksahu3092&style=flat-square&color=blue" alt=""/>
+</div>
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhiksahu3092&theme=github-compact">
 
