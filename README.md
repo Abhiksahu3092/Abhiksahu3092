@@ -15,16 +15,15 @@
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhiksahu3092&style=flat-square&color=blue" alt=""/>
-<div>
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhiksahu3092&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
+
+   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhiksahu3092&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!--
 **Abhiksahu3092/Abhiksahu3092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<div>
 - 🌱 I’m currently learning Web development and DSA.
 - 👯 I’m interested to collaborate and contribute on  open source.
 - 🤔 I’m interested in learning new and complext cutting edge technologies such as AI, ML and data science.
 - 💬 Happy to discuss about coding, DSA, and development.
 - 📫 How to reach me: You can DM me on any of my given social media handles.
-</div>
