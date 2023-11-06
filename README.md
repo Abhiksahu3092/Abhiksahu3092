@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
-  <div align="center"><h2>Hi everyone. Abhik this side 👋<h2></div>
+  <div align="center"><h3>Hi everyone. Abhik this side 👋<h3></div>
 </div>
 
 
