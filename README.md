@@ -1,16 +1,10 @@
-##
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
-  <div align="center"><h1>Hi everyone. Abhik this side 👋<h1></div>
+  <div align="center"><h1 style="color:blue">Hi everyone. Abhik this side👋</h1></div>
 </div>
-
- 
-
-
-<!--
-**Abhiksahu3092/Abhiksahu3092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<h1>About :</h1>
+<div></div>
+    
+<h1>About me :</h1>
 
 - 🌱 I’m currently learning Web development.
 - 👯 I’m interested to collaborate and contribute on  open source.
@@ -19,7 +13,8 @@
 - 📫 How to reach me: You can DM me on any of my given social media handles.
 
 
-<h1>Stats and handles :</h1>
+<div>
+<h1>Social handles :</h1>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/abhiksundarsahu/">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
@@ -34,7 +29,11 @@
     <img src="https://img.shields.io/badge/Codechef-964B00?style=for-the-badge&logo=codechef" alt="Twitter Badge"/>
   </a>
 </div>
+</div>
 
+
+<div>
+  <h1>Stats :</h1>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhiksahu3092&style=flat-square&color=blue" alt=""/>
 </div>
@@ -45,6 +44,7 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiksahu3092&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt=""/>
 </div>
+</div>
 
-<h1>Languages and tools: </h1>
-<img src="https://skillicons.dev/icons?i=git,github,c,cpp,bootstrap,javascript,figma,html,react,css,canva&theme=dark" />
+<h1>Languages and tools :</h1>
+<img src="https://skillicons.dev/icons?i=github,git,c,cpp,bootstrap,javascript,figma,html,react,css,canva&theme=dark" />
