@@ -10,7 +10,7 @@
 
 <!--
 **Abhiksahu3092/Abhiksahu3092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<h3>About :</h3>
+<h1>About :</h1>
 
 - 🌱 I’m currently learning Web development.
 - 👯 I’m interested to collaborate and contribute on  open source.
@@ -19,7 +19,7 @@
 - 📫 How to reach me: You can DM me on any of my given social media handles.
 
 
-<h3>Stats and handles :</h3>
+<h1>Stats and handles :</h1>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/abhiksundarsahu/">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
@@ -45,3 +45,6 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiksahu3092&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt=""/>
 </div>
+
+<h1>Languages and tools: </h1>
+<img src="https://skillicons.dev/icons?i=git,github,c,cpp,bootstrap,javascript,figma,html,react,css,canva&theme=dark" />
