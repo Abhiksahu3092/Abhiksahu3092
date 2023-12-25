@@ -1,10 +1,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
-  <div align="center"><h1 style="color:blue">Hi everyone. Abhik this side👋</h1></div>
+  <div align="center">
+   <p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+everyone+👋;Abhik+this+side;An+avid+tech+enthusiast;A+Web+developer+and+A+Problem+Solver&center=true&width=500&height=50"></a>          
+  </p>
+  </div>
 </div>
-<div></div>
+
     
-<h1>About me :</h1>
+<h1>👩‍💻 About me :</h1>
 
 - 🌱 I’m currently learning Web development.
 - 👯 I’m interested to collaborate and contribute on  open source.
@@ -14,7 +18,7 @@
 
 
 <div>
-<h1>Social handles :</h1>
+<h1>🌐 Social handles :</h1>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/abhiksundarsahu/">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
@@ -33,9 +37,9 @@
 
 
 <div>
-  <h1>Stats :</h1>
+  <h1>📈 Analytics :</h1>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhiksahu3092&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Abhiksahu3092&style=for-the-badge&color=blueviolet" alt=""/>
 </div>
 
 
@@ -46,5 +50,5 @@
 </div>
 </div>
 
-<h1>Languages and tools :</h1>
-<img src="https://skillicons.dev/icons?i=github,git,c,cpp,bootstrap,javascript,figma,html,react,css,canva&theme=dark" />
+<h1>🛠 Tech stack and tools :</h1>
+<img src="https://skillicons.dev/icons?i=git,github,c,cpp,bootstrap,javascript,figma,html,react,css,vscode,netlify,replit,vercel&theme=dark" />
