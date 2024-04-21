@@ -51,4 +51,4 @@
 </div>
 
 <h1>🛠 Tech stack and tools :</h1>
-<img src="https://skillicons.dev/icons?i=git,github,c,cpp,bootstrap,javascript,html,css,vscode,netlify,replit,vercel,python,mongodb,golang,react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,c,cpp,bootstrap,javascript,html,css,vscode,netlify,replit,vercel,python,mongodb,golang,react,tailwind&theme=dark" />
