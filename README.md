@@ -32,7 +32,7 @@
   <a href="https://www.codechef.com/users/abhiksahu2003">
     <img src="https://img.shields.io/badge/Codechef-964B00?style=for-the-badge&logo=codechef" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.codechef.com/users/abhiksahu2003">
+  <a href="https://leetcode.com/u/abhiksahu2003/">
     <img src="https://img.shields.io/badge/Leetcode-108B00?style=for-the-badge&logo=leetcode" alt="Leetcode Badge"/>
   </a>
 </div>
